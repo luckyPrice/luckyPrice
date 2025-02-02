@@ -28,33 +28,32 @@
 ### 🏆 취득한 자격증  
 
 <div align="center">
-    <table>
-        <tr>
-            <td align="center">
-                <img src="https://img.shields.io/badge/AWS%20Certified-SAA--C03-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"><br>
-                <img src="![image](https://github.com/user-attachments/assets/e3fc7830-3c42-42f0-901e-41213198a780)
-" width="200"><br>
-                <b>AWS Solutions Architect</b>
-            </td>
-            <td align="center">
-                <img src="https://img.shields.io/badge/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-Passed-blue?style=for-the-badge"><br>
-                <img src="https://via.placeholder.com/200" width="200"><br>
-                <b>정보처리기사</b>
-            </td>
-            <td align="center">
-                <img src="https://img.shields.io/badge/Certified%20Kubernetes%20Administrator-CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"><br>
-                <img src="https://via.placeholder.com/200" width="200"><br>
-                <b>CKA</b>
-            </td>
-        </tr>
-    </table>
+
+### 🟠 AWS Solutions Architect  
+<img src="https://img.shields.io/badge/AWS%20Certified-SAA--C03-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"><br>
+![image](https://github.com/user-attachments/assets/e88ab1aa-b017-4ed6-ba7e-29c39936438b)
+
+
+---
+
+### 🔵 정보처리기사  
+<img src="https://img.shields.io/badge/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-Passed-blue?style=for-the-badge"><br>
+![image](https://github.com/user-attachments/assets/a2217a92-7f1a-4872-a717-50fb85f5456e)
+
+---
+
+### 🔵 SQLD
+<img src="https://img.shields.io/badge/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-Passed-blue?style=for-the-badge"><br>
+![image](https://github.com/user-attachments/assets/cf90d0c5-b2a3-404b-b144-e70b734f0b4f)
+
+
+### 🟢 OPIc (Speaking)  
+<img src="https://img.shields.io/badge/OPIc-IH-orange?style=for-the-badge"><br>
+![image](https://github.com/user-attachments/assets/67b472c5-349a-4c9f-9328-9c610d2b7e1e)
+
+
+
 </div>
-
-
-
-
-
-
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luckyprice&show_icons=true&locale=en&layout=compact" alt="luckyprice" /></p>

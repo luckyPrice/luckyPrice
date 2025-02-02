@@ -166,24 +166,32 @@
 
 ### 🟠 AWS Solutions Architect  
 <img src="https://img.shields.io/badge/AWS%20Certified-SAA--C03-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"><br>
-![image](https://github.com/user-attachments/assets/e88ab1aa-b017-4ed6-ba7e-29c39936438b)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e88ab1aa-b017-4ed6-ba7e-29c39936438b" alt="AWS SAA 인증" width="300">
+</p>
 
 ---
 
 ### 🔵 정보처리기사  
 <img src="https://img.shields.io/badge/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-Passed-blue?style=for-the-badge"><br>
-![image](https://github.com/user-attachments/assets/a2217a92-7f1a-4872-a717-50fb85f5456e)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a2217a92-7f1a-4872-a717-50fb85f5456e" alt="정보처리기사 인증" width="300">
+</p>
 
 ---
 
-### 🔵 SQLD
-<img src="https://img.shields.io/badge/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-Passed-blue?style=for-the-badge"><br>
-![image](https://github.com/user-attachments/assets/cf90d0c5-b2a3-404b-b144-e70b734f0b4f)
+### 🔵 SQLD  
+<img src="https://img.shields.io/badge/SQLD-Passed-blue?style=for-the-badge"><br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cf90d0c5-b2a3-404b-b144-e70b734f0b4f" alt="SQLD 인증" width="300">
+</p>
 
 ---
 
 ### 🟢 OPIc (Speaking)  
 <img src="https://img.shields.io/badge/OPIc-IH-orange?style=for-the-badge"><br>
-![image](https://github.com/user-attachments/assets/9ba75a65-7ed5-4d6b-a78d-2c812462cd99)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9ba75a65-7ed5-4d6b-a78d-2c812462cd99" alt="OPIc 인증" width="300">
+</p>
+
 

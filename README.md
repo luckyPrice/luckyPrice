@@ -1,4 +1,3 @@
-
 <h1 align="center">안녕하세요! 👋 안상운입니다.</h1>
 <h3 align="center">능숙한 데브옵스 엔지니어가 되기 위해 꾸준히 클라우드와 개발을 공부하고 있습니다.</h3>
 
@@ -16,16 +15,17 @@
 - 📄 **이력서:** [📄 내 이력서 보기](https://docs.google.com/document/d/1MCI4kZbToS_R2OD44BezJXwFQSnJz4jXeeBXh1DGv0U/edit?usp=sharing)  
 - 📫 **연락처:** asw116@naver.com  
 
----
-
 ## 🚪 **나의 포트폴리오로 입장하기**  
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2b32016c-89b7-4d08-8008-aa69f5824597" alt="문 이미지" width="400">
+</p>
 
 <p align="center">
   <a href="http://mysimplebucketproject.s3-website.ap-northeast-2.amazonaws.com/" target="_blank">
     <img src="https://img.shields.io/badge/🚪%20CLICK%20TO%20ENTER%20MY%20PORTFOLIO-222222?style=for-the-badge&logo=door&logoColor=white" alt="포트폴리오 바로가기">
   </a>
 </p>
-
 
 ---
 

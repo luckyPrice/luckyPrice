@@ -1,28 +1,28 @@
 
-<h1 align="center">Hi 👋, I'm AN SANG WOON</h1>
-<h3 align="center">능숙한 데브옵스 엔지니어가 되고 싶어 꾸준히 클라우드와 개발을 공부 하고 있습니다.</h3>
+<h1 align="center">안녕하세요! 👋 안상운입니다.</h1>
+<h3 align="center">능숙한 데브옵스 엔지니어가 되기 위해 꾸준히 클라우드와 개발을 공부하고 있습니다.</h3>
 
-&nbsp; 
-&nbsp; 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luckyprice&label=Profile%20views&color=0e75b6&style=flat" alt="luckyprice" /> </p>
-
-- 🌱 I’m currently learning **클라우드 네이티브 기술, 클라우드 오케스트레이션, 마이크로서비스를 공부중입니다.**
-
-- 👨‍💻 my portfolio [http://mysimplebucketproject.s3-website.ap-northeast-2.amazonaws.com/](http://mysimplebucketproject.s3-website.ap-northeast-2.amazonaws.com/)
-
-- 📝 I regularly write articles on [https://velog.io/@luckyprice1103/posts](https://velog.io/@luckyprice1103/posts)
-
-- 💬 Ask me about **aws, 클라우드**
-
-- 📫 How to reach me **asw116@naver.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1MCI4kZbToS_R2OD44BezJXwFQSnJz4jXeeBXh1DGv0U/edit?usp=sharing](https://docs.google.com/document/d/1MCI4kZbToS_R2OD44BezJXwFQSnJz4jXeeBXh1DGv0U/edit?usp=sharing)
-  
-&nbsp; 
-<h3 align="left">Connect with me:asw116@naver.com</h3>
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=luckyprice&label=👀 Profile%20Views&color=0e75b6&style=flat" alt="luckyprice" />
 </p>
+
+## 🚀 About Me  
+- 🌱 **현재 학습 중:** 클라우드 네이티브 기술, 클라우드 오케스트레이션, 마이크로서비스  
+- 💬 **문의 가능 분야:** AWS, 클라우드 관련 기술  
+- 👨‍💻 **포트폴리오:** [📌 내 포트폴리오 바로가기](http://mysimplebucketproject.s3-website.ap-northeast-2.amazonaws.com/)  
+- 📝 **기술 블로그:** [✍️ 벨로그](https://velog.io/@luckyprice1103/posts)  
+- 📄 **이력서:** [📄 내 이력서 보기](https://docs.google.com/document/d/1MCI4kZbToS_R2OD44BezJXwFQSnJz4jXeeBXh1DGv0U/edit?usp=sharing)  
+- 📫 **연락처:** asw116@naver.com  
+
+---
+
+## 📞 Contact Me  
+📧 **Email:** asw116@naver.com  
+📌 **GitHub:** [Luckyprice](https://github.com/luckyprice)  
+
+
 
 &nbsp; 
 ## 🔧 Tech Stack
@@ -60,6 +60,7 @@
   </a>
 </p>
 &nbsp; 
+
 ---
 
 ### 🎨 Front-End  
@@ -84,6 +85,7 @@
   </a>
 </p>
 &nbsp; 
+
 ---
 
 ### 🗄️ Database  
@@ -102,6 +104,7 @@
   </a>
 </p>
 &nbsp; 
+
 ---
 
 ### 🖥️ Programming Languages  
@@ -126,6 +129,7 @@
   </a>
 </p>
 &nbsp; 
+
 ---
 
 ### ⚒️ Tools & Monitoring  
@@ -142,6 +146,7 @@
 </p>
 
 &nbsp; 
+
 ## 📜 Certifications  
 
 ### 🏆 취득한 자격증  

@@ -46,7 +46,8 @@
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
   </a>
 </p>
-&nbsp; 
+&nbsp;
+
 ---
 
 ### 🏗️ Back-End  

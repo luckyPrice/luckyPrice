@@ -47,6 +47,22 @@
 
 ---
 
+## 🚪 ** TIL (Today I Learned) 바로가기 **  
+
+<p align="center">
+  <a href="https://github.com/100-hours-a-week/luckyPrice-til" target="_blank">
+    <img src="https://www.bu.edu/files/2023/02/TodayILearned_Animated.gif" alt="문 이미지" width="400">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/100-hours-a-week/luckyPrice-til" target="_blank">
+    <img src="https://img.shields.io/badge/🚪%20CLICK%20TO%20ENTER%20MY%20BLOG-222222?style=for-the-badge&logo=door&logoColor=white" alt="TIL (Today I Learned) 바로가기">
+  </a>
+</p>
+
+---
+
 ## 📞 Contact Me  
 📧 **Email:** asw116@naver.com  
 📌 **GitHub:** [Luckyprice](https://github.com/luckyprice)  

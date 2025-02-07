@@ -4,8 +4,9 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=luckyprice&label=👀 Profile%20Views&color=0e75b6&style=flat" alt="luckyprice" />
+  <img src="https://r2.jjalbot.com/2023/03/SnpkBZZRt0.jpeg" alt="luckyprice" width="30%" />
 </p>
+
 
 ## 🚀 About Me  
 - 🌱 **현재 학습 중:** 클라우드 네이티브 기술, 클라우드 오케스트레이션, 마이크로서비스  

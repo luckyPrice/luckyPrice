@@ -57,7 +57,7 @@
 
 <p align="center">
   <a href="https://github.com/100-hours-a-week/luckyPrice-til" target="_blank">
-    <img src="https://img.shields.io/badge/🚪%20CLICK%20TO%20ENTER%20MY%20BLOG-222222?style=for-the-badge&logo=door&logoColor=white" alt="TIL (Today I Learned) 바로가기">
+    <img src="https://img.shields.io/badge/🚪%20CLICK%20TO%20ENTER%20MY%20BTIL-222222?style=for-the-badge&logo=door&logoColor=white" alt="TIL (Today I Learned) 바로가기">
   </a>
 </p>
 

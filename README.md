@@ -35,7 +35,7 @@
 ## 🚪 ** 내 블로그 바로가기 **  
 
 <p align="center">
-  <a href="https://velog.io/@luckyprice1103/series" target="_blank">
+  <a href="https://velog.io/@luckyprice1103/posts" target="_blank">
     <img src="https://velog.velcdn.com/images/kim-mg/post/b6928585-e245-4e5f-b878-0bbf278e5886/velog_logo.png" alt="문 이미지" width="400">
   </a>
 </p>

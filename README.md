@@ -77,7 +77,7 @@
 ### ☁️ System & Cloud & DevOps  
 <p align="left">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="100" height="100"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg" alt="linux" width="100" height="100"/>
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="100" height="100"/>

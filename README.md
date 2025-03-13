@@ -19,13 +19,13 @@
 ## 🚪 **나의 포트폴리오로 입장하기**  
 
 <p align="center">
-   <a href="http://mysimplebucketproject.s3-website.ap-northeast-2.amazonaws.com/" target="_blank">
+   <a href="https://portfolio.asuka.kro.kr/" target="_blank">
     <img src="https://github.com/user-attachments/assets/2b32016c-89b7-4d08-8008-aa69f5824597" alt="문 이미지" width="400">
    </a>
 </p>
 
 <p align="center">
-  <a href="http://mysimplebucketproject.s3-website.ap-northeast-2.amazonaws.com/" target="_blank">
+  <a href="https://portfolio.asuka.kro.kr/" target="_blank">
     <img src="https://img.shields.io/badge/🚪%20CLICK%20TO%20ENTER%20MY%20PORTFOLIO-222222?style=for-the-badge&logo=door&logoColor=white" alt="포트폴리오 바로가기">
   </a>
 </p>

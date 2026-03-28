@@ -11,9 +11,8 @@
 ## 🚀 About Me  
 - 🌱 **현재 학습 중:** 클라우드 네이티브 기술, 클라우드 오케스트레이션, 마이크로서비스  
 - 💬 **문의 가능 분야:** AWS, 클라우드 관련 기술  
-- 👨‍💻 **포트폴리오:** [📌 내 포트폴리오 바로가기](http://mysimplebucketproject.s3-website.ap-northeast-2.amazonaws.com/)  
-- 📝 **기술 블로그:** [✍️ 벨로그](https://velog.io/@luckyprice1103/posts)  
-- 📄 **이력서:** [📄 내 이력서 보기](https://docs.google.com/document/d/1MCI4kZbToS_R2OD44BezJXwFQSnJz4jXeeBXh1DGv0U/edit?usp=sharing)  
+- 👨‍💻 **포트폴리오:** [📌 내 포트폴리오 바로가기](https://docs.google.com/document/d/1tgAYBEVS7D4beNdf0UIEmeZaaEYh6q6Txbg_QUsNwEo/edit?usp=sharing)  
+- 📝 **기술 블로그:** [✍️ 벨로그](https://velog.io/@luckyprice1103/series)  
 - 📫 **연락처:** asw116@naver.com  
 
 ## 🚪 **나의 포트폴리오로 입장하기**  

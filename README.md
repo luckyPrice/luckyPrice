@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://t1.daumcdn.net/tvpot/thumb/s44c6rorlCYNXYXX2aBBZel/thumb.png" alt="luckyprice" width="30%" />
+  <img src="https://t1.daumcdn.net/tvpot/thumb/s44c6rorlCYNXYXX2aBBZel/thumb.png" alt="luckyprice" width="80%" />
 </p>
 
 

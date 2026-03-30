@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  <a href="https://velog.io/@luckyprice1103/posts" target="_blank">
+  <a href="https://velog.io/@luckyprice1103/series" target="_blank">
     <img src="https://img.shields.io/badge/🚪%20CLICK%20TO%20ENTER%20MY%20BLOG-222222?style=for-the-badge&logo=door&logoColor=white" alt="포트폴리오 바로가기">
   </a>
 </p>
